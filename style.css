@@ -1,7 +1,10 @@
 
 body{
     margin: 0;
-    background-color: peachpuff;
+  background-image: url('whitebg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 header{
 background-color: green;
@@ -33,6 +36,7 @@ nav a{
 
  .column.side{
      width:25%:
+     
  }/* FOOTER */
   
 footer {
