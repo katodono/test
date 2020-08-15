@@ -16,7 +16,7 @@ font-family: monospace;
 
 nav{
     overflow: hidden;
-    background-color: red;
+    background-color: rgba(196, 31, 31, 0.945);
 }
 nav a{
     float: left;
